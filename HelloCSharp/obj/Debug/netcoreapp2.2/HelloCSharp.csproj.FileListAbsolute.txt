@@ -1,0 +1,11 @@
+/Users/chengchaochao/UnityTutorials/HelloCSharp/bin/Debug/netcoreapp2.2/HelloCSharp.deps.json
+/Users/chengchaochao/UnityTutorials/HelloCSharp/bin/Debug/netcoreapp2.2/HelloCSharp.runtimeconfig.json
+/Users/chengchaochao/UnityTutorials/HelloCSharp/bin/Debug/netcoreapp2.2/HelloCSharp.runtimeconfig.dev.json
+/Users/chengchaochao/UnityTutorials/HelloCSharp/bin/Debug/netcoreapp2.2/HelloCSharp.dll
+/Users/chengchaochao/UnityTutorials/HelloCSharp/bin/Debug/netcoreapp2.2/HelloCSharp.pdb
+/Users/chengchaochao/UnityTutorials/HelloCSharp/obj/Debug/netcoreapp2.2/HelloCSharp.csprojAssemblyReference.cache
+/Users/chengchaochao/UnityTutorials/HelloCSharp/obj/Debug/netcoreapp2.2/HelloCSharp.csproj.CoreCompileInputs.cache
+/Users/chengchaochao/UnityTutorials/HelloCSharp/obj/Debug/netcoreapp2.2/HelloCSharp.AssemblyInfoInputs.cache
+/Users/chengchaochao/UnityTutorials/HelloCSharp/obj/Debug/netcoreapp2.2/HelloCSharp.AssemblyInfo.cs
+/Users/chengchaochao/UnityTutorials/HelloCSharp/obj/Debug/netcoreapp2.2/HelloCSharp.dll
+/Users/chengchaochao/UnityTutorials/HelloCSharp/obj/Debug/netcoreapp2.2/HelloCSharp.pdb

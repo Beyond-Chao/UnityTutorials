@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/chengchaochao/UnityTutorials/HelloCSharp/HelloCSharp.csproj": {}
+  },
+  "projects": {
+    "/Users/chengchaochao/UnityTutorials/HelloCSharp/HelloCSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chengchaochao/UnityTutorials/HelloCSharp/HelloCSharp.csproj",
+        "projectName": "HelloCSharp",
+        "projectPath": "/Users/chengchaochao/UnityTutorials/HelloCSharp/HelloCSharp.csproj",
+        "packagesPath": "/Users/chengchaochao/.nuget/packages/",
+        "outputPath": "/Users/chengchaochao/UnityTutorials/HelloCSharp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/chengchaochao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
