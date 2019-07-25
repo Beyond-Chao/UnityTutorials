@@ -1,0 +1,4 @@
+#Thu Jul 25 15:07:49 CST 2019
+base.0=/System/Volumes/Data/Users/chengchaochao/UnityTutorials/androidUnityProject/launcher/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

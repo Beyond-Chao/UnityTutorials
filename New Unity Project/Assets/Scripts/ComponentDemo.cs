@@ -11,6 +11,6 @@ public class ComponentDemo : MonoBehaviour
 
             this.transform.position = new Vector3(0, 0, 10);
 			this.GetComponent<MeshRenderer>().material.color = Color.red;
-        }
+		}
     }
 }
