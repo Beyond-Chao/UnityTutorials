@@ -10,7 +10,25 @@ public class ComponentDemo : MonoBehaviour
             print("button clicked!");
 
             this.transform.position = new Vector3(0, 0, 10);
-			this.GetComponent<MeshRenderer>().material.color = Color.red;
 		}
+
+        if (GUILayout.Button("GetComponent"))
+        {
+            this.GetComponent<MeshRenderer>().material.color = Color.red;
+        }
+
+        if (GUILayout.Button("GetComponents"))
+        {
+            var allComponent = this.GetComponents<Component>();
+            foreach (var item in allComponent)
+            {
+                Debug.Log(item.GetType());
+            }
+        }
+    }
+
+    private void OnMouseDown()
+    {
+        print("hello");
     }
 }

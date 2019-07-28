@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chengchaochao/UnityTutorials/HelloCSharp/HelloCSharp.csproj": {}
+    "/System/Volumes/Data/Users/chengchaochao/UnityTutorials/HelloCSharp/HelloCSharp.csproj": {}
   },
   "projects": {
-    "/Users/chengchaochao/UnityTutorials/HelloCSharp/HelloCSharp.csproj": {
+    "/System/Volumes/Data/Users/chengchaochao/UnityTutorials/HelloCSharp/HelloCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chengchaochao/UnityTutorials/HelloCSharp/HelloCSharp.csproj",
+        "projectUniqueName": "/System/Volumes/Data/Users/chengchaochao/UnityTutorials/HelloCSharp/HelloCSharp.csproj",
         "projectName": "HelloCSharp",
-        "projectPath": "/Users/chengchaochao/UnityTutorials/HelloCSharp/HelloCSharp.csproj",
+        "projectPath": "/System/Volumes/Data/Users/chengchaochao/UnityTutorials/HelloCSharp/HelloCSharp.csproj",
         "packagesPath": "/Users/chengchaochao/.nuget/packages/",
-        "outputPath": "/Users/chengchaochao/UnityTutorials/HelloCSharp/obj/",
+        "outputPath": "/System/Volumes/Data/Users/chengchaochao/UnityTutorials/HelloCSharp/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/chengchaochao/.nuget/NuGet/NuGet.Config"
+          "/Users/chengchaochao/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
