@@ -8,7 +8,7 @@ Build Unity Project for Android and iOS
 2. Edit -> Project setting -> Player -> uncheck Auto Graphics API add OpenCLES3(Deprecated) or OpenCLES2(Deprecated)
 3. File -> Build setting -> Add Open Scenes -> Build 
 
-## Unity as a library in native (UaaL)
+## Unity as a Library in native (UaaL)
 
 [iOS](https://forum.unity.com/threads/integration-unity-as-a-library-in-native-ios-app.685219/)
 
