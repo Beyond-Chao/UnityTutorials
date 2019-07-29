@@ -8,7 +8,13 @@ Build Unity Project for Android and iOS
 2. Edit -> Project setting -> Player -> uncheck Auto Graphics API add OpenCLES3(Deprecated) or OpenCLES2(Deprecated)
 3. File -> Build setting -> Add Open Scenes -> Build 
 
-## Docs
+## Unity as a library in native (UaaL)
+
+[iOS](https://forum.unity.com/threads/integration-unity-as-a-library-in-native-ios-app.685219/)
+
+[Android](https://forum.unity.com/threads/integration-unity-as-a-library-in-native-android-app.685240/)
+
+## Getting Staretd Docs
 
  1. [Getting started with iOS](https://docs.unity3d.com/Manual/iphone-GettingStarted.html)
  2. [Getting started with Android](https://docs.unity3d.com/Manual/android-GettingStarted.html)
