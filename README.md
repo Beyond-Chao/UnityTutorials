@@ -12,7 +12,11 @@ Build Unity Project for Android and iOS
 
 [iOS](https://forum.unity.com/threads/integration-unity-as-a-library-in-native-ios-app.685219/)
 
+[UaaLExample-iOS](https://github.com/Beyond-Chao/UnityTutorials/tree/master/UaaLExample-iOS)
+
 [Android](https://forum.unity.com/threads/integration-unity-as-a-library-in-native-android-app.685240/)
+
+[UaaLExample-Android](https://github.com/Beyond-Chao/UnityTutorials/tree/master/UaaLExample-Android)
 
 ## Getting Staretd Docs
 
