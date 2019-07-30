@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
             case "blue": v.setBackgroundColor(Color.BLUE); break;
             default: break;
         }
+
     }
 
     public void onUnityLoad(View v) {
