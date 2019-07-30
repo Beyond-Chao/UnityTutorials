@@ -1,5 +1,5 @@
 # UnityTutorials
-Build Unity Project for Android and iOS
+Build Unity Project within Android and iOS
 
 
 ## Build for iOS Simulator
@@ -7,6 +7,8 @@ Build Unity Project for Android and iOS
 1. Edit -> Project setting -> Other setting -> Target SDK -> Simulator SDK
 2. Edit -> Project setting -> Player -> uncheck Auto Graphics API add OpenCLES3(Deprecated) or OpenCLES2(Deprecated)
 3. File -> Build setting -> Add Open Scenes -> Build 
+
+## Build for Android device
 
 ## Unity as a Library in native (UaaL)
 
